@@ -25,8 +25,8 @@ Run npm start
 
 ## Contributors
 
-Mike Hoyt: Worked on the middleware Authentication Passport and routes and frontend Pages
-Ian Hooper: Worked on the Sequelize modals and frontend
+[Mike Hoyt] :  Worked on the middleware Authentication Passport and routes and frontend Pages - 
+[Ian Hooper] : Worked on the Sequelize modals and frontend - 
 Abel J-M S: Worked on Routes and handlebars and the frontend as well
 
 ## Test
